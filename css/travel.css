@@ -57,6 +57,7 @@ body{
   flex: 25%;
   max-width: 25%;
   padding: 0 50px;
+  margin-left: 2rem;
 }
   
 .pictures img { 

@@ -178,14 +178,15 @@ body{
     .photo img{
      
       margin-left: 3rem;
+      width:10rem;
 
     }
     .photo{
         margin-top: 3rem;
     }
     .media{
-     margin-top: 60rem;
+     margin-top: 75rem;
      position: absolute;
-     margin-left: 3.2rem;
+     margin-left: 3rem;
     }   
   }
