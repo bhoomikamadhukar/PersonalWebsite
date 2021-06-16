@@ -96,6 +96,6 @@ body{
   @media screen and (max-width:600px){
     .nav-bar{
         flex-direction: column;
-        font-size: 1.3rem;
+        font-size: 0.8rem;
     }
   }

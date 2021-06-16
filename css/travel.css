@@ -176,7 +176,7 @@ body {
   @media screen and (max-width:600px){
     .nav-bar{
         flex-direction: column;
-        font-size: 1.3rem;
+        font-size: 0.8rem;
     }
     .title h2{
         text-align: center;
@@ -187,7 +187,7 @@ body {
         font-size: 2rem;
     }
     .pictures img{
-        margin-left: 2.5rem;
-        width:3rem;
+        margin-left: 1rem;
+   
     }
   }
