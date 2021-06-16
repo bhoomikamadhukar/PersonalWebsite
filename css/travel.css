@@ -186,8 +186,11 @@ body {
         text-align: center;
         font-size: 2rem;
     }
-    .pictures img{
-        margin-left: 1rem;
+    .pictures{
+        margin-left: -3rem;
    
+    }
+    .pictures img{
+      width:100%;
     }
   }
