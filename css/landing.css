@@ -46,6 +46,9 @@ body{
     
    
 }
+.overall{
+  margin-left: 4rem;
+}
 .about{
     padding: 3px;
     margin: auto;
@@ -164,19 +167,45 @@ body{
         flex-direction: row;
         font-size: 0.8rem;
     }
+    .overall{
+      display: flex;
+      margin-left: 0rem;
+      margin-right: 35rem;
+    }
+    .photo img{
+      width:18rem;
+      height:18rem;
+    }
     .about h1{
+      font-size: 2.5em;
+      position: absolute;
+      margin-top:20rem;
+
+    }
+    .about p{
+      z-index: 1;
+      margin-top: 30rem;
+      position: absolute;
+    }
+    .media{
+      margin-top: 60rem;
+      margin-left: 3rem;
+    }
+  }
+    /* .about h1{
         margin-top: 25rem;
         font-size: 2.5rem;
         position: absolute;
         /* flex-direction: column; */
-        margin-left: 6rem;
-    }
-    .about p{
+        /* margin-left: 6rem; */
+    
+    /* .about p{
         flex-direction: column;
         
         
-    }
-    .photo img{
+    } */ 
+
+    /* .photo img{
      display: flex;
       margin-left: 3rem;
       width:15rem;
@@ -189,5 +218,6 @@ body{
      margin-top: 90rem;
      position: absolute;
      margin-left: 1rem;
-    }   
-  }
+    }    */
+  
+  
